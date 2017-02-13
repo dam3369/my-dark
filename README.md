@@ -30,3 +30,6 @@ Using jailbomb.sh mind, this script tries to identify and put in jail the one th
 
 ### planetportscan.sh
 Creating a huge buffer of screen, just a port scan for 1.1.1.1 to 255.255.255.254 
+
+### random.sh
+Simple script that gives my friend one pic of him per day using cron. I got many on him :)
