@@ -1,6 +1,6 @@
 #!/bin/bash
 hosts=(
-"92.91.151.10"
+"127.0.0.1"
 # "server2"
 )
 for host in "${hosts[@]}"
