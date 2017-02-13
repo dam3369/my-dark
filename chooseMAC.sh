@@ -26,16 +26,6 @@ echo "Type interface: (i.e. en1)"
 echo "-------------------------"
 read cardid
 
-read -r -p "T'as faim? [y/N] " response
-case $response in
-    [yY][eE][sS]|[yY]) 
-        echo "mange!!"
-        ;;
-    *)
-        echo "tu devrais..."
-        ;;
-esac
-
 for x in $(seq 1 +1 254)
 
 do
